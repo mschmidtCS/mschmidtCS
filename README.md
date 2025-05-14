@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mike Schmidt.
 
-<!--
-**mschmidtCS/mschmidtCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Security Analyst at Walker Products, based in St. Louis, Missouri. I specialize in safeguarding systems, detecting vulnerabilities, and implementing security best practices to protect enterprise-level infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 About Me
+
+- 💼 Current Role: IT Security Analyst at Walker Products  
+- 🎓 Education: Bachelor’s Degree in Cybersecurity at Maryville University of Saint Louis  
+- 🏙️ Based in: St. Louis, MO  
+- 🛡️ Passionate about cybersecurity, threat detection, and risk mitigation  
+- 🧠 Always learning — currently exploring [insert tech or topic, e.g., "cloud security" or "ethical hacking"]
+
+---
+
+💡 Skills & Tools
+
+- Security Tools: Kaseya Suite, Specops, Wireshark, Nessus, Nmap
+- Languages: PowerShell, HTML/CSS, Python, Bash  
+- Certifications: ISC2 CC (Certified in Cybersecurity)
+- Operating Systems: Windows, Linux, Windows Server
+- Cloud Security: Microsoft Azure
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: mjschmidtt@gmail.com  
+- 🔗 LinkedIn: www.linkedin.com/in/michael-schmidt-05a087234
+
+Be sure to checkout my portoflio.
+
+Thanks for stopping by!
