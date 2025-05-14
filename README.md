@@ -10,7 +10,7 @@ I'm an IT Security Analyst at Walker Products, based in St. Louis, Missouri. I s
 - 🎓 Education: Bachelor’s Degree in Cybersecurity at Maryville University of Saint Louis  
 - 🏙️ Based in: St. Louis, MO  
 - 🛡️ Passionate about cybersecurity, threat detection, and risk mitigation  
-- 🧠 Always learning — currently exploring [insert tech or topic, e.g., "cloud security" or "ethical hacking"]
+- 🧠 Always learning — currently exploring security administration techniques and malware analysis
 
 ---
 
