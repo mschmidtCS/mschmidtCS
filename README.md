@@ -16,7 +16,7 @@ I'm an IT Security Analyst at Walker Products, based in St. Louis, Missouri. I s
 
 💡 Skills & Tools
 
-- Security Tools: Kaseya Suite, Specops, Wireshark, Nessus, Nmap
+- Security Tools: Kaseya Suite, Specops, Datto AV/EDR, WireShark, Nmap
 - Languages: PowerShell, HTML/CSS, Python, Bash  
 - Certifications: ISC2 CC (Certified in Cybersecurity)
 - Operating Systems: Windows, Linux, Windows Server
